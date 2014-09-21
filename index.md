@@ -15,8 +15,10 @@ knit        : slidify::knit2slides
 
 The purpose of this application is to predict your car's MPG.
 
-To predict the MPG, we will need 
+To predict the MPG, we will need the following.
+
 1. The number of cylinders in your car 
+
 2. Transmission type of your car like Automatic or Manual
 
 --- .class #id 
