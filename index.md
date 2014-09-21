@@ -62,6 +62,6 @@ Please check out the application your self over here
 
 https://vamshideep.shinyapps.io/Projects
 
-<img src="C:/Users/vdeversh/Downloads/CourseEra/DataProducts/Projects/predictMPG/assets/img/Capture.PNG" alt="Predicted Output">
+<img src="./assets/img/Capture.PNG" alt="Predicted Output">
 
 --- .class #id
